@@ -1,14 +1,14 @@
 <!-- Header -->
 <h1 align="center">👨‍💻 Bannawat Rattanarak</h1>
-<h3 align="center">🚀 Backend developer</h3>
+<h3 align="center">🚀 Backend Developer</h3>
 
 ---
 
 ## 📖 About Me  
 
-- 🎓 กำลังศึกษาอยู่ที่ **มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน (RMUTI)**  
-- 💻 สนใจด้าน **Backend Development, API Design, Data Science และ IoT**  
-- 🎯 เป้าหมาย: พัฒนาระบบที่ใช้งานจริง และร่วมสร้าง Open Source  
+- 🎓 Currently studying at **Rajamangala University of Technology Isan (RMUTI)**  
+- 💻 Passionate about **Backend Development, API Design, Data Science, and IoT**  
+- 🎯 Goal: Build real-world systems and contribute to open-source projects  
 
 ---
 
@@ -36,17 +36,17 @@
 
 ## 📂 Featured Projects  
 
-- 🎮 [**THE-ART-OF-FIGHTING**](https://github.com/Bannawat01/THE-ART-OF-FIGHTING) → เกมต่อสู้ที่สร้างด้วยความสนุก  
-- 📊 [**albion-api**](https://github.com/Bannawat01/albion-api) → API สำหรับข้อมูลในเกม Albion Online  
-- 🍽 [**TinnerApp**](https://github.com/Bannawat01/TinnerApp) → แอปพลิเคชันทดลองด้าน Fullstack  
+- 🎮 [**THE-ART-OF-FIGHTING**](https://github.com/Bannawat01/THE-ART-OF-FIGHTING) → A fighting game project for fun  
+- 📊 [**albion-api**](https://github.com/Bannawat01/albion-api) → API for retrieving data from Albion Online  
+- 🍽 [**TinnerApp**](https://github.com/Bannawat01/TinnerApp) → A fullstack practice application  
 
 ---
 
 ## 💼 Freelance / Work With Me  
 
-- ✨ รับงานเขียนโค้ด + พัฒนาโปรเจกต์เว็บและแอปพลิเคชัน  
-- 📬 ติดตามงาน / ติดต่อได้ที่ **[coach.ra47@gmail.com](mailto:coach.ra47@gmail.com)**  
-- 🛠 พร้อมช่วยเหลือด้าน **Web Dev, API, Database, IoT และ Data Science**  
+- ✨ Available for freelance work in web & application development  
+- 📬 Contact me at **[coach.ra47@gmail.com](mailto:coach.ra47@gmail.com)**  
+- 🛠 Expertise in **Web Development, APIs, Databases, IoT, and Data Science**  
 
 ---
 
