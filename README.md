@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">👨‍💻 Bannawat Rattanarak</h1>
-<h3 align="center">🚀 Backend developer | 💡 Lifelong Learner | 🎮 Gamer</h3>
+<h3 align="center">🚀 Backend developer</h3>
 
 ---
 
