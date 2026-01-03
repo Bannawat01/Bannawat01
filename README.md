@@ -37,18 +37,7 @@
 - 📊 [**albion-api**](https://github.com/Bannawat01/albion-api) — REST API for Albion Online data  
 - 🍽 [**TinnerApp**](https://github.com/Bannawat01/TinnerApp) — Fullstack web application demo  
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Bannawat01">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bannawat01&show_icons=true&theme=dracula&hide_border=true" height="160" alt="Stats" />
-  </a>
-  <a href="https://github.com/Bannawat01">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bannawat01&layout=compact&theme=dracula&hide_border=true" height="160" alt="Languages" />
-  </a>
-</div>
 ---
 
 <h3 align="center">⚡ Eat 🍜 | Sleep 😴 | Code 💻 | Repeat 🔁 ⚡</h3>
