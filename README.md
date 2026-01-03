@@ -42,10 +42,13 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bannawat01&show_icons=true&theme=transparent&hide_border=true" height="150" alt="Bannawat01's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bannawat01&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
+  <a href="https://github.com/Bannawat01">
+    <img src="https://github-readme-stats.vercel.app/api?username=Bannawat01&show_icons=true&theme=dracula&hide_border=true" height="160" alt="Stats" />
+  </a>
+  <a href="https://github.com/Bannawat01">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bannawat01&layout=compact&theme=dracula&hide_border=true" height="160" alt="Languages" />
+  </a>
 </div>
-
 ---
 
 <h3 align="center">⚡ Eat 🍜 | Sleep 😴 | Code 💻 | Repeat 🔁 ⚡</h3>
