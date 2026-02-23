@@ -1,47 +1,136 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding Cat" />
-</div>
 
-<h1 align="center">👨‍💻 Bannawat Rattanarak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving Hand"></h1>
-<h3 align="center">Backend Developer | API Designer | IoT Enthusiast</h3>
+# Bannawat Rattanarak
 
-<div align="center">
-  <a href="mailto:coach.ra47@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/bannawattt" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
-
----
-
-## 🧠 About Me
-
-🎓 Student at **Rajamangala University of Technology Isan (RMUTI)** 💡 Passionate about **Backend Development, APIs, IoT, and Data Science** 🎯 Building practical systems & contributing to open-source projects  
-
----
-
-## ⚙️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,go,python,react,nextjs,nodejs,docker,git,vscode" alt="Tech Stack" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-- 🎮 [**THE-ART-OF-FIGHTING**](https://github.com/Bannawat01/THE-ART-OF-FIGHTING) — A fun fighting game project  
-- 📊 [**albion-api**](https://github.com/Bannawat01/albion-api) — REST API for Albion Online data  
-- 🍽 [**TinnerApp**](https://github.com/Bannawat01/TinnerApp) — Fullstack web application demo  
-
-
----
-
-<h3 align="center">⚡ Eat 🍜 | Sleep 😴 | Code 💻 | Repeat 🔁 ⚡</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bannawat01&label=Profile%20Views&color=blue&style=flat" alt="Visitor Counter" />
+<p>
+Software & Game Developer · API Architect · System Builder
 </p>
+
+<p>
+  <a href="https://bannawat.site"><img src="https://img.shields.io/badge/Portfolio-bannawat.site-0f1117?style=flat-square&logo=vercel&logoColor=white&labelColor=0f1117" alt="Portfolio" /></a>
+  <a href="mailto:coach.ra47@gmail.com"><img src="https://img.shields.io/badge/Email-coach.ra47%40gmail.com-0f1117?style=flat-square&logo=gmail&logoColor=white&labelColor=0f1117" alt="Email" /></a>
+  <a href="https://github.com/Bannawat01"><img src="https://img.shields.io/badge/GitHub-Bannawat01-0f1117?style=flat-square&logo=github&logoColor=white&labelColor=0f1117" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Bannawat01&label=Profile%20Views&color=2f81f7&style=flat-square" alt="Profile Views" />
+</p>
+
+</div>
+
+---
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### ▍Profile
+
+Developer focused on production-ready backend systems, game mechanics, and clean technical architecture.
+
+- Building practical software with clear DX and maintainable code
+- Interested in backend APIs, game systems, and IoT integrations
+- Student at Rajamangala University of Technology Isan (RMUTI)
+
+### ▍Current Focus
+
+`TypeScript` · `Node.js` · `Go` · `Unity` · `Docker`
+
+  </td>
+    <td width="50%" valign="top">
+
+### ▍Bento Snapshot
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bannawat01&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="100%" />
+</div>
+
+  </td>
+  </tr>
+</table>
+
+---
+
+## ▍Tech Stack
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" alt="Frontend Stack" />
+</p>
+
+  </td>
+    <td width="33%" valign="top">
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,go,python,express,postgres,mongodb,redis,docker" alt="Backend Stack" />
+</p>
+
+  </td>
+    <td width="33%" valign="top">
+
+### Game Dev
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,cs,blender" alt="Game Development Stack" />
+</p>
+
+  </td>
+  </tr>
+</table>
+
+---
+
+## ▍Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+
+### THE-ART-OF-FIGHTING
+
+Fighting game prototype focused on gameplay flow, mechanics, and interaction polish.
+
+↳ [View Repository](https://github.com/Bannawat01/THE-ART-OF-FIGHTING)
+
+  </td>
+    <td width="33%" valign="top">
+
+### albion-api
+
+REST API service for Albion Online data with a backend-first architecture.
+
+↳ [View Repository](https://github.com/Bannawat01/albion-api)
+
+  </td>
+    <td width="33%" valign="top">
+
+### TinnerApp
+
+Fullstack application demo built to explore product flow and modern web stack integration.
+
+↳ [View Repository](https://github.com/Bannawat01/TinnerApp)
+
+  </td>
+  </tr>
+</table>
+
+---
+
+## ▍GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bannawat01&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bannawat01&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="49%" />
+</div>
+
+---
+
+<div align="center">
+
+### ▍Build with intent. Ship with quality.
+
+</div>
