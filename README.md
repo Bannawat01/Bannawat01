@@ -3,13 +3,17 @@
 # Bannawat Rattanarak
 
 <p>
-Software & Game Developer · API Architect · System Builder
+  Software &amp; Game Developer · API Architect · System Builder
 </p>
 
 <p>
-  <a href="https://bannawat.site"><img src="https://img.shields.io/badge/Portfolio-bannawat.site-0f1117?style=flat-square&logo=vercel&logoColor=white&labelColor=0f1117" alt="Portfolio" /></a>
-  <a href="mailto:coach.ra47@gmail.com"><img src="https://img.shields.io/badge/Email-coach.ra47%40gmail.com-0f1117?style=flat-square&logo=gmail&logoColor=white&labelColor=0f1117" alt="Email" /></a>
-  <a href="https://github.com/Bannawat01"><img src="https://img.shields.io/badge/GitHub-Bannawat01-0f1117?style=flat-square&logo=github&logoColor=white&labelColor=0f1117" alt="GitHub" /></a>
+  <em>Building production-ready systems with clean architecture and clear developer experience.</em>
+</p>
+
+<p>
+  <a href="https://bannawat.site"><img src="https://img.shields.io/badge/Portfolio-bannawat.site-0d1117?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio" /></a>
+  <a href="mailto:coach.ra47@gmail.com"><img src="https://img.shields.io/badge/Email-coach.ra47%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
+  <a href="https://github.com/Bannawat01"><img src="https://img.shields.io/badge/GitHub-Bannawat01-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
   <img src="https://komarev.com/ghpvc/?username=Bannawat01&label=Profile%20Views&color=2f81f7&style=flat-square" alt="Profile Views" />
 </p>
 
@@ -26,7 +30,7 @@ Software & Game Developer · API Architect · System Builder
 Developer focused on production-ready backend systems, game mechanics, and clean technical architecture.
 
 - Building practical software with clear DX and maintainable code
-- Interested in backend APIs, game systems, and IoT integrations
+- Backend APIs, game systems, and IoT integrations
 - Student at Rajamangala University of Technology Isan (RMUTI)
 
 ### ▍Current Focus
@@ -34,9 +38,9 @@ Developer focused on production-ready backend systems, game mechanics, and clean
 `TypeScript` · `Node.js` · `Go` · `Unity` · `Docker`
 
   </td>
-    <td width="50%" valign="top">
+  <td width="50%" valign="top">
 
-### ▍Bento Snapshot
+### ▍Snapshot
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bannawat01&theme=github_dark" alt="GitHub Stats" width="100%" />
@@ -61,7 +65,7 @@ Developer focused on production-ready backend systems, game mechanics, and clean
 </p>
 
   </td>
-    <td width="33%" valign="top">
+  <td width="33%" valign="top">
 
 ### Backend
 
@@ -70,7 +74,7 @@ Developer focused on production-ready backend systems, game mechanics, and clean
 </p>
 
   </td>
-    <td width="33%" valign="top">
+  <td width="33%" valign="top">
 
 ### Game Dev
 
@@ -97,7 +101,7 @@ Fighting game prototype focused on gameplay flow, mechanics, and interaction pol
 ↳ [View Repository](https://github.com/Bannawat01/THE-ART-OF-FIGHTING)
 
   </td>
-    <td width="33%" valign="top">
+  <td width="33%" valign="top">
 
 ### albion-api
 
@@ -106,11 +110,11 @@ REST API service for Albion Online data with a backend-first architecture.
 ↳ [View Repository](https://github.com/Bannawat01/albion-api)
 
   </td>
-    <td width="33%" valign="top">
+  <td width="33%" valign="top">
 
 ### TinnerApp
 
-Fullstack application demo built to explore product flow and modern web stack integration.
+Fullstack application built to explore product flow and modern web stack integration.
 
 ↳ [View Repository](https://github.com/Bannawat01/TinnerApp)
 
@@ -131,6 +135,6 @@ Fullstack application demo built to explore product flow and modern web stack in
 
 <div align="center">
 
-### ▍Build with intent. Ship with quality.
+**Build with intent. Ship with quality.**
 
 </div>
