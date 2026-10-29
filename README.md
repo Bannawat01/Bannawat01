@@ -1,207 +1,271 @@
 
-<div align="center">
+# B A N N A W A T  /  R A T T A N A R A K
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:2563eb&height=220&section=header&text=BANNAWAT%20RATTANARAK&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20%7C%20GAME%20SYSTEMS%20%7C%20BACKEND%20ENGINEERING&descAlignY=56&descSize=13" width="100%" alt="Header"/>
+**SOFTWARE ENGINEER · BACKEND DEVELOPMENT · GAME SYSTEMS**
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+systems+that+actually+work.;From+backend+APIs+to+game+worlds.;Design.+Develop.+Debug.+Deploy." alt="Typing SVG" />
-</a>
+`THAILAND` / `RMUTI` / `BUILDING REAL SYSTEMS`
 
-<br/>
-
-<a href="https://bannawat.site">
-  <img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="mailto:coach.ra47@gmail.com">
-  <img src="https://img.shields.io/badge/CONTACT-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/Bannawat01">
-  <img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Bannawat01&label=PROFILE+VIEWS&color=2563eb&style=flat-square" alt="Profile views"/>
-
-</div>
+[PORTFOLIO](https://bannawat.site) &nbsp; / &nbsp; [GITHUB](https://github.com/Bannawat01) &nbsp; / &nbsp; [CONTACT](mailto:coach.ra47@gmail.com)
 
 ---
 
-## `> whoami`
+## 00 / SYSTEM IDENTIFICATION
 
-```typescript
-const developer = {
-  name: "Bannawat Rattanarak",
-  location: "Thailand 🇹🇭",
-  education: "Rajamangala University of Technology Isan",
+```yaml
+identity:
+  name: Bannawat Rattanarak
+  role: Software & Game Developer
+  location: Thailand
+  education: Rajamangala University of Technology Isan
 
-  interests: [
-    "Backend Engineering",
-    "Full-Stack Development",
-    "Game Development",
-    "System Architecture"
-  ],
+engineering:
+  primary: Backend Development
+  secondary: Full-Stack Development
+  interests:
+    - System Architecture
+    - REST API Design
+    - Database Engineering
+    - Developer Tooling
+    - Game Systems
 
-  currentlyExploring: [
-    "Scalable REST APIs",
-    "Distributed Systems",
-    "Game Systems Design"
-  ],
-
-  philosophy: "Build with purpose. Ship with quality."
-};
+principle: "Design with intent. Build for reality."
 ```
 
-I’m a software developer who enjoys turning ideas into working systems — from backend services and web applications to interactive game mechanics.
+I develop software across backend services, web applications, and interactive game systems.
 
-My primary interests are **backend engineering, clean architecture, and practical software development**. I also explore game development using Unity and Godot.
+My focus is on understanding how systems work, designing clear interfaces between components, and writing maintainable code.
 
-I value readable code, maintainable systems, and learning by building real projects.
-
----
-
-## `> tech --stack`
-
-<div align="center">
-
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=go,ts,js,cs,python&theme=dark" alt="Languages"/>
-
-<br/><br/>
-
-**FRONTEND & BACKEND**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind&theme=dark" alt="Web stack"/>
-
-<br/><br/>
-
-**DATABASE & INFRASTRUCTURE**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,git,github,cloudflare&theme=dark" alt="Infrastructure"/>
-
-<br/><br/>
-
-**GAME DEVELOPMENT & TOOLS**
-
-<img src="https://skillicons.dev/icons?i=unity,godot,blender,vscode,postman&theme=dark" alt="Game dev and tools"/>
-
-</div>
+I enjoy transforming ideas into practical applications — from API and database design to game mechanics and developer tooling.
 
 ---
 
-## `> ls ./projects`
+## 01 / ENGINEERING DOMAINS
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚔️ THE ART OF FIGHTING
-
-**Game Development**
-
-A fighting game prototype focused on core mechanics, combat interactions, and gameplay flow.
-
-`Game Mechanics` `Combat` `Gameplay`
-
-<a href="https://github.com/Bannawat01/THE-ART-OF-FIGHTING">
-  <img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 ALBION API
-
-**Backend / REST API**
-
-An API service for Albion Online data, built with a focus on backend organization and data accessibility.
-
-`REST API` `Backend` `Integration`
-
-<a href="https://github.com/Bannawat01/albion-api">
-  <img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 TINNER APP
-
-**Full-Stack Application**
-
-A web application exploring modern frontend-backend integration and application workflows.
-
-`Full-Stack` `Web App` `UI/UX`
-
-<a href="https://github.com/Bannawat01/TinnerApp">
-  <img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 MORE PROJECTS
-
-**Experiments & Engineering**
-
-Exploring backend services, developer tools, game systems, and creative software projects.
-
-`Open Source` `Experiments` `Learning`
-
-<a href="https://github.com/Bannawat01?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="All projects"/>
-</a>
-
-</td>
-</tr>
-</table>
+| Domain | Focus | Technologies |
+| :--- | :--- | :--- |
+| `BE-01` Backend | APIs, services, business logic | Go, Node.js, TypeScript |
+| `FE-02` Frontend | Interfaces, application flows | React, Next.js, Tailwind CSS |
+| `DB-03` Data | Relational and document databases | PostgreSQL, MongoDB |
+| `IN-04` Infrastructure | Containers, deployment, tooling | Docker, Git, Cloudflare |
+| `GD-05` Game Systems | Gameplay, interaction, architecture | Unity, Godot, C# |
 
 ---
 
-## `> git stats --global`
+## 02 / SYSTEM ARCHITECTURE
 
-<div align="center">
+**Reference Architecture / Full-Stack Application**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bannawat01&theme=github_dark" width="98%" alt="GitHub Profile Summary"/>
+A simplified blueprint representing the type of architecture I work with and explore.
 
-<br/>
+```mermaid
+flowchart TB
+    CLIENT["CLIENT APPLICATION"]
+    API["REST API"]
+    AUTH["AUTHENTICATION"]
+    SERVICE["BUSINESS LOGIC"]
+    DATABASE[("DATABASE")]
+    EXTERNAL["EXTERNAL SERVICES"]
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bannawat01&theme=github_dark" width="49%" alt="GitHub Statistics"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bannawat01&theme=github_dark" width="49%" alt="Languages by commits"/>
+    CLIENT -->|HTTP / JSON| API
+    API --> AUTH
+    AUTH --> SERVICE
+    SERVICE --> DATABASE
+    SERVICE --> EXTERNAL
 
-<br/>
+    classDef client fill:#172554,stroke:#60a5fa,color:#ffffff
+    classDef backend fill:#0f172a,stroke:#38bdf8,color:#ffffff
+    classDef data fill:#052e2b,stroke:#2dd4bf,color:#ffffff
 
-<img src="https://streak-stats.demolab.com?user=Bannawat01&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA" width="75%" alt="GitHub Streak"/>
+    class CLIENT client
+    class API,AUTH,SERVICE backend
+    class DATABASE,EXTERNAL data
+```
 
-</div>
+**Architecture priorities**
+
+- Clear separation of responsibilities
+- Predictable API contracts
+- Data integrity and validation
+- Maintainable service boundaries
+- Practical testing and debugging
 
 ---
 
-## `> cat ./developer-philosophy.md`
+## 03 / TECHNOLOGY MATRIX
 
 ```text
-[01] Understand the problem before writing code.
-[02] Keep systems simple, readable, and maintainable.
-[03] Build things that solve real problems.
-[04] Learn through experimentation and iteration.
-[05] Never stop improving.
+LANGUAGES
+├── Go
+├── TypeScript / JavaScript
+├── C#
+└── Python
+
+WEB DEVELOPMENT
+├── React / Next.js
+├── Node.js / Express
+├── REST API
+└── Tailwind CSS
+
+DATA & INFRASTRUCTURE
+├── PostgreSQL
+├── MongoDB
+├── Docker
+├── Git / GitHub
+└── Cloudflare
+
+GAME DEVELOPMENT
+├── Unity
+├── Godot
+├── Gameplay Systems
+└── Event-Driven Architecture
 ```
 
-<div align="center">
+---
 
-### Let's build something meaningful.
+## 04 / PROJECT REGISTRY
 
-Open to collaboration, interesting projects, and new opportunities.
+A selection of development work across backend engineering, applications, and games.
 
-<a href="mailto:coach.ra47@gmail.com">
-  <img src="https://img.shields.io/badge/LET'S_CONNECT-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/>
-</a>
+### `PRJ-001` / ALBION API
 
-<br/><br/>
+**Category:** Backend Engineering
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0f172a,100:020617&height=110&section=footer" width="100%" alt="Footer"/>
+An API project focused on working with Albion Online data and service integration.
 
-</div>
+**Engineering areas**
+- API development
+- Data retrieval and transformation
+- Backend organization
+
+[VIEW SOURCE CODE](https://github.com/Bannawat01/albion-api)
+
+---
+
+### `PRJ-002` / THE ART OF FIGHTING
+
+**Category:** Game Development
+
+A fighting game project exploring combat mechanics, player interaction, and gameplay systems.
+
+**Engineering areas**
+- Game mechanics
+- Interaction systems
+- Gameplay flow
+
+[VIEW SOURCE CODE](https://github.com/Bannawat01/THE-ART-OF-FIGHTING)
+
+---
+
+### `PRJ-003` / TINNER APP
+
+**Category:** Application Development
+
+An application project exploring full-stack integration and software workflows.
+
+**Engineering areas**
+- Application structure
+- Frontend and backend integration
+- User interaction flows
+
+[VIEW SOURCE CODE](https://github.com/Bannawat01/TinnerApp)
+
+---
+
+[OPEN COMPLETE PROJECT REGISTRY](https://github.com/Bannawat01?tab=repositories)
+
+---
+
+## 05 / DEVELOPMENT WORKFLOW
+
+```mermaid
+flowchart LR
+    A["REQUIREMENTS"]
+    B["DESIGN"]
+    C["IMPLEMENT"]
+    D["TEST"]
+    E["REVIEW"]
+    F["RELEASE"]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    E -.->|Refine| B
+
+    classDef stage fill:#0f172a,stroke:#60a5fa,color:#ffffff
+    class A,B,C,D,E,F stage
+```
+
+**Process**
+
+1. **Analyze** — Understand the problem, requirements, and constraints.
+2. **Design** — Define architecture, data models, and interfaces.
+3. **Implement** — Build features in manageable increments.
+4. **Validate** — Test expected behavior and edge cases.
+5. **Improve** — Refactor, document, and iterate.
+
+---
+
+## 06 / ENGINEERING PRINCIPLES
+
+```text
++----------------------------------------------------------+
+|                  ENGINEERING PRINCIPLES                  |
++----------------------------------------------------------+
+|  01  CORRECTNESS      Software should behave as expected |
+|  02  SIMPLICITY       Avoid unnecessary complexity       |
+|  03  MAINTAINABILITY  Optimize for future changes        |
+|  04  RELIABILITY      Handle failures deliberately       |
+|  05  ITERATION        Improve through evidence           |
++----------------------------------------------------------+
+```
+
+I believe effective engineering is not about using the most technologies.
+
+It is about choosing appropriate tools, understanding trade-offs, and delivering software that is useful, understandable, and maintainable.
+
+---
+
+## 07 / CURRENT DEVELOPMENT DIRECTION
+
+| Track | Current Direction |
+| :--- | :--- |
+| `PRIMARY` | Backend Engineering |
+| `ACTIVE` | Full-Stack Applications |
+| `EXPLORING` | Distributed Systems & Automation |
+| `CREATIVE` | Game Design & Development |
+| `IMPROVING` | Architecture, Testing & Documentation |
+
+---
+
+## 08 / COMMUNICATION INTERFACE
+
+```http
+GET /developer/contact
+
+200 OK
+{
+  "name": "Bannawat Rattanarak",
+  "location": "Thailand",
+  "portfolio": "https://bannawat.site",
+  "email": "coach.ra47@gmail.com",
+  "collaboration": "open_to_discussion"
+}
+```
+
+**Connect**
+
+- Portfolio: [bannawat.site](https://bannawat.site)
+- GitHub: [Bannawat01](https://github.com/Bannawat01)
+- Email: [coach.ra47@gmail.com](mailto:coach.ra47@gmail.com)
+
+---
+
+<p align="center">
+  <strong>DESIGN WITH INTENT. BUILD WITH PURPOSE.</strong>
+</p>
+
+<p align="center">
+  <sub>ENGINEERING BLUEPRINT / BANNAWAT RATTANARAK</sub>
+</p>
