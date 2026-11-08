@@ -5,7 +5,7 @@
 
 `THAILAND` / `RMUTI` / `BUILDING REAL SYSTEMS`
 
-[PORTFOLIO](https://bannawat.site) &nbsp; / &nbsp; [GITHUB](https://github.com/Bannawat01) &nbsp; / &nbsp; [CONTACT](mailto:coach.ra47@gmail.com)
+[PORTFOLIO](https://bannawat.site) &nbsp; / &nbsp; [GITHUB](https://github.com/Bannawat01) &nbsp; / &nbsp; [CONTACT](mailto:bannawat.work47@gmail.com)
 
 ---
 
@@ -249,7 +249,7 @@ GET /developer/contact
   "name": "Bannawat Rattanarak",
   "location": "Thailand",
   "portfolio": "https://bannawat.site",
-  "email": "coach.ra47@gmail.com",
+  "email": "bannawat.work47@gmail.com",
   "collaboration": "open_to_discussion"
 }
 ```
@@ -258,7 +258,7 @@ GET /developer/contact
 
 - Portfolio: [bannawat.site](https://bannawat.site)
 - GitHub: [Bannawat01](https://github.com/Bannawat01)
-- Email: [coach.ra47@gmail.com](mailto:coach.ra47@gmail.com)
+- Email: [bannawat.work47@gmail.com](mailto:bannawat.work47@gmail.com)
 
 ---
 
